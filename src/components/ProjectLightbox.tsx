@@ -167,7 +167,7 @@ export default function ProjectLightbox({
               <div>
                 <h3 className="text-lg font-semibold mb-2">Design Story</h3>
                 <p className="text-gray-600">{project.designStory}</p>
-                <p><strong>Design Story:</strong> {project.designStory ?? "No design story available"}</p>
+                <p><strong>Design Story:</strong> {project.designStory "No design story available"}</p>
               </div>
             </div>
           </div>
