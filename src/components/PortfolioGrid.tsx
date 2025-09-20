@@ -12,6 +12,7 @@ interface Project {
   tools: string[];
   description: string;
   concept: string;
+  designStory?: string;
 }
 
 export default function PortfolioGrid() {
