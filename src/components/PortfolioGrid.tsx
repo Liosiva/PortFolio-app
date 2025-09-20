@@ -36,6 +36,7 @@ export default function PortfolioGrid() {
         "Complete brand identity design for an eco-friendly coffee shop.",
       concept:
         "The concept focused on sustainability and organic elements while maintaining a modern, clean aesthetic that appeals to environmentally conscious consumers.",
+      designStory: "Explored vibrant color palettes for branding.",
     },
     {
       id: "2",
