@@ -51,6 +51,7 @@ export default function PortfolioGrid() {
       description: "UI/UX design for a fitness tracking mobile application.",
       concept:
         "Created an intuitive and visually appealing interface that motivates users to achieve their fitness goals through gamification elements and clean data visualization.",
+      designStory: "Explored vibrant color palettes for branding.",
     },
     {
       id: "3",
@@ -66,6 +67,7 @@ export default function PortfolioGrid() {
       description: "Series of promotional posters for a music festival.",
       concept:
         "Designed a cohesive series of posters with vibrant colors and dynamic typography to capture the energy and diversity of the festival lineup.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "4",
@@ -81,6 +83,7 @@ export default function PortfolioGrid() {
       description: "Packaging design for an artisanal skincare line.",
       concept:
         "Created minimalist yet luxurious packaging that emphasizes natural ingredients and sustainability while standing out on retail shelves.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "5",
@@ -97,6 +100,7 @@ export default function PortfolioGrid() {
         "Magazine layout and editorial design for a fashion publication.",
       concept:
         "Developed a sophisticated and contemporary layout that balances striking imagery with readable typography to showcase fashion content effectively.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "6",
@@ -113,6 +117,7 @@ export default function PortfolioGrid() {
         "Collection of logo designs for various clients and industries.",
       concept:
         "Each logo was crafted to capture the essence of the brand while ensuring versatility, memorability, and timeless appeal.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "7",
@@ -129,6 +134,7 @@ export default function PortfolioGrid() {
         "Cohesive social media graphics for a product launch campaign.",
       concept:
         "Designed a series of visually consistent and engaging posts that tell a compelling story about the product while driving user engagement.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "8",
@@ -144,6 +150,7 @@ export default function PortfolioGrid() {
       description: "Complete redesign of an e-commerce website interface.",
       concept:
         "Transformed an outdated website into a modern, user-friendly experience with improved navigation, visual hierarchy, and conversion-focused elements.",
+      designStory: "Explored vibrant color palettes for branding."
     },
     {
       id: "9",
@@ -159,6 +166,7 @@ export default function PortfolioGrid() {
       description: "Series of digital illustrations for a children's book.",
       concept:
         "Created whimsical and engaging illustrations that bring the story to life while appealing to both children and adults with rich details and vibrant colors.",
+      designStory: "Explored vibrant color palettes for branding."
     },
   ];
 
